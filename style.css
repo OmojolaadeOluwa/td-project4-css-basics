@@ -1,0 +1,170 @@
+* {
+    background-color: ;
+    box-sizing: border-box;
+    
+}
+header{
+   
+    display: flex;
+    justify-content:space-between;
+    background-color: #0F3D3E;
+}
+h1 {
+    padding-left: 100px;
+    color: white;
+}
+.JAYDEE {
+    padding: 25px 100px 10px 0px;
+}
+
+.jaydee div {
+    display:inline;
+    padding: 30px 30px 25px 0px;
+    font-size: 18px;
+    color:white;
+    border:20px;
+    font-weight: bold;
+
+}
+
+.img { 
+    border-radius: 50%;
+ }
+ .tech {
+    padding:60px;
+    font-family: verdana;
+}
+
+ h2 {
+    color:#698269; 
+ }
+
+ h3 {
+    font-size: 28px;
+ }
+
+ h4 {
+    font-size: 28px;
+ }
+ p{
+    
+    font-family: verdan;
+ }
+
+.Learning {
+          width: 50%;
+          color: white;
+          font-family: verdana;
+          font-size: 20px;
+          padding: 20px 20px 20px 25px;
+         
+}
+
+
+.about{
+    background-color:#3F979B;
+    display: flex;
+    justify-content: space-between;
+    padding: 80px;
+    font-size:15px ;
+}
+/* padding for query */
+
+.query {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    padding: 10px 50px 20px 0px;
+
+ }
+
+   .Design {          width: 30%;
+              padding: 20px;
+              text-align: center;
+              font-size: 20px;
+              margin: 0px 15px 15px 15px;
+              color: white;
+             
+   }
+   /* padding for type */
+
+ .type {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+    padding: 10px 50px 20px 0px;
+
+ }
+
+   .Design {          width: 30%;
+              padding: 20px;
+              text-align: center;
+              font-size: 20px;
+              margin: 0px 15px 15px 15px;
+              color: white;
+             
+   }
+   .Designgit  /*style for designgit*/ 
+   {
+    display: flex;
+    color: white;
+    padding: 0px 0px 100px 0px;
+    justify-content: space-between;
+    padding: 80px;
+    font-family: verdana;}
+
+h6 {
+    font-family: verdana;
+    font-size: 25px;
+    color: #0F3D3E;
+    padding:50px 0px 0px 100px;
+   }
+
+.h7 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+   .Design.UI /* style for design.ui*/
+    {
+    background-color:#3F979B;
+    ;
+    }
+
+    .Design.web /* style for design.web*/
+    {
+    background-color:#3F979B;
+    ;
+    color: white}
+
+    .Design.Instructor /* style for design.instructor*/
+    {
+    background-color:#3F979B;
+    ;
+    color: white;}
+
+/* styling the footer */
+    .footer{
+    text-align: center ;
+    background-color:#0F3D3E ;
+    padding: 80px;
+    font-family: verdana;
+    color: white;
+}
+.img {
+    justify-content: space-between;
+}
+.Prompt {
+    padding: 0px 0px 20px 0px;
+
+}
+.mail {
+    padding: 0px 0px 20px 0px;
+    font-weight: bold;
+
+}
+.icons {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
